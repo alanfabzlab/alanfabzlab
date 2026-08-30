@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alan Lozano
+# Alan Fabricio Lozano
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=7C5CFF&center=true&vCenter=true&width=700&lines=Software+and+Video+Game+Engineer;Developing+Everlasting+Pixel+Experiences;Game+Design+%7C+Creative+Coding;RPG+Systems+%7C+Fantasy+Worlds" alt="Animated typing banner" />
 
