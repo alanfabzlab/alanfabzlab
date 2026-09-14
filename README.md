@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=7C5CFF&center=true&vCenter=true&width=700&lines=Software+and+Video+Game+Engineer;Developing+Everlasting+Pixel+Experiences;Game+Design+%7C+Creative+Coding;RPG+Systems+%7C+Fantasy+Worlds" alt="Animated typing banner" />
 
 <p>
-  <img src="https://img.shields.io/badge/Engineer-Software%20%26%20Game-8B5CF6?style=for-the-badge&logo=code" />
+  <img src="https://img.shields.io/badge/Engineer-Software%20%26%20Game-8B5CF6?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Pixel%20RPG-FF5F6D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Style-Everlasting%20Experiences-00C2A8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Passion-Fantasy%20Systems-F7B801?style=for-the-badge" />
@@ -24,96 +24,43 @@
 
 I design and build interactive experiences where magic, systems, and player emotion meet.
 
-My work focuses on:
-- software engineering for interactive products
-- video game design and mechanics
-- pixel-art fantasy worlds and character-driven stories
+**My work focuses on:**
+- Software engineering for interactive products
+- Video game design and mechanics
+- Pixel-art fantasy worlds and character-driven stories
 - RPG systems, progression loops, and idle-game feel
-- creativity through code, UI, animation, and gameplay structure
+- Creativity through code, UI, animation, and gameplay structure
 
-I believe great games are built when engineering, art, and storytelling move together.
+*I believe great games are built when engineering, art, and storytelling move together.*
 
 ---
 
-## 🧙 Pixel party of magic
+## 🧙 Pixel Party of Magic
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <pre>
-██████
-██░░██
-██▓▓██
-██░░██
-██▓▓██
-  ✦  
-      </pre>
-      <strong>Black Mage</strong><br>
-      Arcane Burst
+    <td align="center" width="200">
+      <br>
+      <img src="./SpritesPack/Dark Paladin.png" width="96" alt="Dark Paladin"/><br><br>
+      <strong>Dark Paladin</strong><br>
+      <sub>Shadow Shield</sub>
+      <br><br>
     </td>
-    <td align="center">
-      <pre>
-██████
-██░░██
-██▒▒██
-██▓▓██
-██░░██
-  ✧  
-      </pre>
-      <strong>Red Mage</strong><br>
-      Flame Sigil
+    <td align="center" width="200">
+      <br>
+      <img src="./SpritesPack/Sage.png" width="96" alt="Sage"/><br><br>
+      <strong>Sage</strong><br>
+      <sub>Arcane Wisdom</sub>
+      <br><br>
     </td>
-    <td align="center">
-      <pre>
-██████
-██▒▒██
-██▓▓██
-██░░██
-██▒▒██
-  ✨  
-      </pre>
-      <strong>Paladin</strong><br>
-      Guard Aura
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <pre>
-██████
-██▓▓██
-██░░██
-██▒▒██
-██▓▓██
-  ⚡  
-      </pre>
-      <strong>Berserker</strong><br>
-      Rage Slash
-    </td>
-    <td align="center">
-      <pre>
-██████
-██░░██
-██▓▓██
-██▒▒██
-██░░██
-  ❄️  
-      </pre>
-      <strong>Snow Mage</strong><br>
-      Frost Nova
-    </td>
-    <td align="center">
-      <pre>
-██████
-██▒▒██
-██▓▓██
-██░░██
-██▒▒██
-  🔷  
-      </pre>
-      <strong>Blue Warrior</strong><br>
-      Tide Breaker
+    <td align="center" width="200">
+      <br>
+      <img src="./SpritesPack/Wraith.png" width="96" alt="Wraith"/><br><br>
+      <strong>Wraith</strong><br>
+      <sub>Soul Reaper</sub>
+      <br><br>
     </td>
   </tr>
 </table>
@@ -122,46 +69,70 @@ I believe great games are built when engineering, art, and storytelling move tog
 
 ---
 
-## 🛠️ Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canvas-Game%20UI-7C5CFF?style=flat-square" />
-</p>
-
----
-
-## 🌌 Current focus
-
-- building stronger idle RPG and fantasy game systems
-- designing polished pixel-art combat experiences
-- creating playable game loops with progression and feedback
-- turning prototypes into long-term interactive worlds
-- blending engineering and visual storytelling into memorable games
-
----
-
-## 🚀 Featured work
-
-- Arcane Idle Dominion
-- Pixel fantasy battle prototypes
-- Browser game mechanics and progression loops
-- RPG UI experimentation and mobile-friendly gameplay prototype concepts
-
----
-
-## 📊 GitHub statistics
+## 🛠️ Class Skills & Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanfabzlab&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanfabzlab&layout=compact&theme=tokyonight&hide_border=true" />
+### Core GameDev Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Engines, Frameworks & Web
+<p>
+  <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+### Tools & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 🌌 Current Focus
+
+- 🗡️ Building stronger idle RPG and fantasy game systems
+- 🎨 Designing polished pixel-art combat experiences
+- 🔄 Creating playable game loops with progression and feedback
+- 🌐 Turning prototypes into long-term interactive worlds
+- 📜 Blending engineering and visual storytelling into memorable games
+
+---
+
+## 🚀 Featured Work
+
+<details>
+  <summary><b>🏰 Click to expand projects & prototypes</b></summary>
+  <br>
+  <ul>
+    <li><b>Arcane Idle Dominion:</b> Core progression mechanics and idle RPG loop setup.</li>
+    <li><b>Pixel Fantasy Battle Prototypes:</b> Turn-based and real-time combat experiments.</li>
+    <li><b>Browser Game Mechanics:</b> Canvas-based rendering, UI structures, and lightweight systems.</li>
+    <li><b>RPG UI & UX Concepting:</b> Mobile-friendly layouts, inventory systems, and skill trees.</li>
+  </ul>
+</details>
+
+---
+
+## 📊 Player Stats & GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alanfabzlab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanfabzlab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -169,11 +140,11 @@ I believe great games are built when engineering, art, and storytelling move tog
 
 ## 🤝 Connect
 
-- GitHub: [@alanfabzlab](https://github.com/alanfabzlab)
-- Focus: software engineering, fantasy game systems, pixel experiences
-- Collaboration: game design, creative coding, RPG development, gameplay prototyping
-
 <div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-alanfabzlab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alanfabzlab)
+
+<br>
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Fantasy magic animation" />
 
