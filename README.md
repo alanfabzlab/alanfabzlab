@@ -1,6 +1,8 @@
 <div align="center">
 
 # Alan Fabricio Lozano
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,35,7C5CFF,00C2A8&height=6&section=header" width="100%" alt="Neon Line Rect" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=7C5CFF&center=true&vCenter=true&width=700&lines=Software+and+Video+Game+Engineer;Developing+Everlasting+Pixel+Experiences;Game+Design+%7C+Creative+Coding;RPG+Systems+%7C+Fantasy+Worlds" alt="Animated typing banner" />
 
@@ -10,7 +12,7 @@
   <img src="https://img.shields.io/badge/Style-Everlasting%20Experiences-00C2A8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Passion-Fantasy%20Systems-F7B801?style=for-the-badge" />
 </p>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,35,7C5CFF,00C2A8&height=6&section=header" width="100%" alt="Neon Line Rect" />
 <p>
   <strong>Software and Video Game Engineer.</strong><br>
   <strong>Developing Everlasting Pixel Experiences.</strong>
