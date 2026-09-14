@@ -112,10 +112,37 @@ I design and build interactive experiences where magic, systems, and player emot
 
 ---
 
+---
+
 ## 🚀 Featured Work
 
+### 🧠 Featured Repository
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>
+        <a href="https://github.com/alanfabzlab/Developer-Knowledge-Base">🧠 Developer-Knowledge-Base</a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/Methodology-MOC%20%2F%20Obsidian-7C5CFF?style=flat-square&logo=obsidian&logoColor=white" />
+        <img src="https://img.shields.io/badge/Type-Structured%20Vault-00C2A8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active%20Doc-FF5F6D?style=flat-square" />
+      </p>
+      <p>
+        <i>A structured, step-by-step knowledge base documenting programming languages, core computer science foundations, software architecture patterns, and hands-on exercises using Map of Content (MOC) methodology.</i>
+      </p>
+      <p>
+        👉 <b><a href="https://github.com/alanfabzlab/Developer-Knowledge-Base">Explore the Vault &rarr;</a></b>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <details>
-  <summary><b>🏰 Click to expand projects & prototypes</b></summary>
+  <summary><b>🏰 Click to expand other projects & prototypes</b></summary>
   <br>
   <ul>
     <li><b>Arcane Idle Dominion:</b> Core progression mechanics and idle RPG loop setup.</li>
