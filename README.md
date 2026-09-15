@@ -161,7 +161,7 @@ I design and build interactive experiences where magic, systems, and player emot
 <div align="center">
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alanfabzlab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanfabzlab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alanfabzlab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
